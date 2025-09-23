@@ -17,7 +17,3 @@ mvn clean package
 ```
 java -jar target/webhook-0.0.1-SNAPSHOT.jar
 ```
-
-## Submission
-- Push code and JAR to GitHub
-- Get RAW JAR link for submission
